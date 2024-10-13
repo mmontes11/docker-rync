@@ -1,2 +1,2 @@
 # docker-rync
-Multi-arch image for rsync
+Multi-arch image for [rsync](https://github.com/RsyncProject/rsync)
